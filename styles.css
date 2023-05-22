@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
 body{
-	background-color:#cccccc;
+	background-color:rgb(204, 204, 204);
+	text-decoration-line:none;
+	text-align:center;
 }
 .player_one{
 	background-color:white;
@@ -11,14 +13,15 @@ body{
 }
 .player_two{
 	background-color:white;
-	width:50%;
+	width:60%;
 	border:1px solid black;
 	border-radius:5px;
 	padding:10px;
 	margin:10px;
+	text-align:center;
 }
 a{
-	text-decoration:none;
+	text-decoration-line:none;
 	color:black;
 }
 ul,li{
